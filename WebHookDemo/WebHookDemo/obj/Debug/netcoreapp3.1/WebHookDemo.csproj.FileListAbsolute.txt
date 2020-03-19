@@ -32,3 +32,4 @@ D:\Practice\Jenkins\WebHook\WebHookDemo\WebHookDemo\obj\Debug\netcoreapp3.1\stat
 D:\Practice\Jenkins\WebHook\WebHookDemo\WebHookDemo\obj\Debug\netcoreapp3.1\WebHookDemo.dll
 D:\Practice\Jenkins\WebHook\WebHookDemo\WebHookDemo\obj\Debug\netcoreapp3.1\WebHookDemo.pdb
 D:\Practice\Jenkins\WebHook\WebHookDemo\WebHookDemo\obj\Debug\netcoreapp3.1\WebHookDemo.csproj.CopyComplete
+D:\Practice\Jenkins\WebHook\WebHookDemo\WebHookDemo\obj\Debug\netcoreapp3.1\WebHookDemo.csprojAssemblyReference.cache
