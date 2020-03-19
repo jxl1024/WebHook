@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice\\Jenkins\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj": {}
+    "D:\\Practice\\Jenkins\\WebHook\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj": {}
   },
   "projects": {
-    "D:\\Practice\\Jenkins\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj": {
+    "D:\\Practice\\Jenkins\\WebHook\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice\\Jenkins\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj",
+        "projectUniqueName": "D:\\Practice\\Jenkins\\WebHook\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj",
         "projectName": "WebHookDemo",
-        "projectPath": "D:\\Practice\\Jenkins\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj",
+        "projectPath": "D:\\Practice\\Jenkins\\WebHook\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice\\Jenkins\\WebHookDemo\\WebHookDemo\\obj\\",
+        "outputPath": "D:\\Practice\\Jenkins\\WebHook\\WebHookDemo\\WebHookDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
