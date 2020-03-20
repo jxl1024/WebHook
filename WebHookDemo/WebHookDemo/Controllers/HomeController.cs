@@ -20,7 +20,7 @@ namespace WebHookDemo.Controllers
 
         public IActionResult Index()
         {
-            ViewBag.User = "admin";
+            ViewBag.User = "admin123456";
             return View();
         }
 

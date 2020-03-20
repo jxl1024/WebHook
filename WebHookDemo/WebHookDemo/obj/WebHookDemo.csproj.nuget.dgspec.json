@@ -1,34 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice\\Jenkins\\WebHook\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj": {}
+    "E:\\demo\\IIS\\WebHook\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj": {}
   },
   "projects": {
-    "D:\\Practice\\Jenkins\\WebHook\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj": {
+    "E:\\demo\\IIS\\WebHook\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice\\Jenkins\\WebHook\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj",
+        "projectUniqueName": "E:\\demo\\IIS\\WebHook\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj",
         "projectName": "WebHookDemo",
-        "projectPath": "D:\\Practice\\Jenkins\\WebHook\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice\\Jenkins\\WebHook\\WebHookDemo\\WebHookDemo\\obj\\",
+        "projectPath": "E:\\demo\\IIS\\WebHook\\WebHookDemo\\WebHookDemo\\WebHookDemo.csproj",
+        "packagesPath": "C:\\Users\\JIANGXIAOLIANG\\.nuget\\packages\\",
+        "outputPath": "E:\\demo\\IIS\\WebHook\\WebHookDemo\\WebHookDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\JIANGXIAOLIANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://localhost:8624/nuget/HSB/": {},
-          "http://localhost:8624/nuget/Test/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
